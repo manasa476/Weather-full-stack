@@ -53,7 +53,7 @@ npm install
 3. Add API key in `.env`
 
 ```env
-API_KEY=your_api_key
+API_KEY=fc89186c07eb1b7a49faa1e92c989767
 ```
 
 4. Run server
